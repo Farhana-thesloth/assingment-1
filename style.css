@@ -1,0 +1,256 @@
+body{
+    background: #FFFFFF;
+    color:black;
+}
+.start{
+    width: 1273.54px;
+    height: 724.01px;
+    top: 2080.08px;
+    left: 135px;
+    gap: 0px;
+    opacity: 0px;
+position: absolute;
+
+}
+.images {
+    position: absolute;
+    top: 2%;
+    right: 0%;
+}
+.images img{
+   justify-content:none; */
+   align-items: left;
+   width: 495.25px;
+   height: 550px;
+   top: 2080.08px;
+   left: 842.29px;
+   gap: 0px;
+   opacity: 0px; 
+   float: right;
+   
+
+}
+.vision{
+    text-align: left;
+    margin-bottom: 40px;
+    width: 590.28px;
+    height: 650.87px;
+    top: 2116.65px;
+    left: 135px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 3%;
+
+}
+ .vision .title{
+    width: 82.53px;
+    height: 0px;
+    top: 1500.65px;
+    left: 135px;
+    gap: 0px;
+    opacity: 0px;
+
+    font-family: Gilroy-SemiBold;
+    font-size: 18.81px;
+    line-height: 22.04px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #FD5B2F;
+}
+.vision-2 {
+ width: 561.03px;
+height: 105.08px;
+top: 1500.86px;
+left: 135px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy-Medium;
+font-size: 52.24px;
+line-height: 71.04px;
+text-align: left;
+}
+.vision .para{
+width: 587.15px;
+height: 90.83px;
+top: 2307.84px;
+left: 135px;
+gap: 0px;
+opacity: 0px;
+font-family: Avenir;
+font-size: 15.67px;
+font-weight: 500;
+line-height: 37.61px;
+text-align: left;
+}
+/* .description{
+    justify-content: space-between;
+} */
+.config-H img{
+    justify-content: space-between;
+    width: 21.94px;
+    height: 22.98px;
+    top: 2452.01px;
+    left: 137.09px;
+    gap: 0px;
+    float: left;
+    opacity: 0px;
+    
+}
+.config-H h3{
+
+width: 223.57px;
+height: 1px;
+top: 2450.97px;
+left: 172.61px;
+gap: 0px;
+opacity: 0px;
+font-family: Gilroy-Medium;
+font-size: 15.72px;
+line-height: 19.59px;
+text-align: left;
+padding-left: 5%;
+}
+.config-H p{
+width: 247.6px;
+height: 25.15px;
+top: 2400.49px;
+left: 170.52px;
+gap: 0px;
+opacity: 0px;
+font-family: Avenir;
+font-size: 13.58px;
+font-weight: 400;
+line-height: 25.07px;
+text-align: left;
+padding-left: 5%;
+padding-top: 3.4%;
+padding-bottom: 3.5%;
+}
+
+.config-E{
+    position: absolute;
+    top: 51.5%;
+    left: 30%;
+
+}
+.config-line{
+    display: flex;
+}
+
+.config-line img{
+    display:flex ;
+    width: 25px;
+    height: 22px;
+    top: 2050px;
+    left: 442.16px;
+    float: left;
+    gap: 0px;
+    opacity: 0px;
+    padding-top: 6%;
+    
+
+}
+.config-line h3{
+    display: flex;
+    width: 195.37px;
+    height: 1.85px;
+    top: 2450.97px;
+    left: 477.68px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy-Medium;
+    font-size: 16.72px;
+    line-height: 19.59px;
+    text-align: left;
+    padding-left: 4%;
+}
+.config-E p{
+    width: 247.6px;
+    height: 30.15px;
+    top: 2000.49px;
+    left: 477.68px;
+    gap: 0px;
+    padding-left: 14%;
+    opacity: 0px;
+    font-family: Avenir;
+    font-size: 13.58px;
+    font-weight: 400;
+    line-height: 25.07px;
+}
+.config-s img{
+    float: left;
+    width: 21.94px;
+    height: 25.07px;
+    top: 2558.57px;
+    left: 137.09px;
+    gap: 0px;
+    opacity: 0px;       
+}
+.config-s h3{
+    width: 185.67px;
+    height: 19.85px;
+    top: 2562.75px;
+    left: 170.52px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Gilroy-Medium;
+    font-size: 15.72px;
+    line-height: 19.59px;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 1%;
+}
+.config-s p{
+    width: 247.6px;
+    height: 50.15px;
+    top: 2598.27px;
+    left: 170.52px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Avenir;
+    font-size: 13.58px;
+    font-weight: 400;
+    line-height: 25.07px;
+    text-align: left;
+    padding-left: 5%;
+       
+}
+/* .ex-btn{
+    padding-left: 5%;
+} */
+
+.btn{
+width: Fixed (176.56px)px;
+height: Fixed (56.42px)px;
+top: 2711.11px;
+left: 135px;
+padding: 9.4px 36.57px 9.4px 36.57px;
+gap: 10.45px;
+border-color: rgb(255, 255, 255);
+border-radius: 5.22px;
+opacity: 0px;
+background: #FD5B2F;
+font-family: Gilroy-Medium;
+font-size: 15.72px;
+line-height: 19.59px;
+text-align: center;
+color: #FFFFFF;
+padding-left: 5%;
+}
+.btn:hover{
+    background-color: blueviolet;
+}
+
+@media(max-width:768px){
+    .description{
+        flex-direction: column;
+}
+}
+@media(max-width:480px){
+    .description{
+        flex-direction: column;
+    }
+    .images{
+        display: none;
+    }
+}
